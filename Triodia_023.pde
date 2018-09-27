@@ -1,4 +1,4 @@
-// Triodia 021
+// Triodia 023
 // Display phot of a transect with scale 
 // 1) Click on top corner of transect scale in photo
 // 2) click on oposite corner of transect scale eg 1 meter from first click on photo
