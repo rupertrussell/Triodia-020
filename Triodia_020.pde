@@ -144,7 +144,10 @@ void keyPressed() {
       measuredDistance = dist(x3, y3, x4, y4);
       //      println("measured Distance = " + measuredDistance);
       println("distance in meters = " + measuredDistance / distance);
-    } else {
+        s = str(measuredDistance / distance);
+        text(s, x4, y4);    
+  
+} else {
 
       println("Please set point 1 first");
     }
