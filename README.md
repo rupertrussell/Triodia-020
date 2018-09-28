@@ -12,4 +12,6 @@ designed to help measure to scale points on a photograph
 // move mouse to a new point press 1 move to another point and press 2 
 // sread new distance between points
 
+version 28  added WSAD movement of large images
+I setill need to use an array to track and re draw points after panning on the screen
 
