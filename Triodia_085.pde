@@ -1,20 +1,27 @@
 // Triodia 85
 // http://www.e-cartouche.ch/content_reg/cartouche/graphics/en/html/raster_learningObject3.html
 
-// code by Rupert Russell
-// October 2018 
+// code by Rupert Russell 
+// rupert.russell@acu.edu.au
+// October 9th 2018 
 // latest version on Github at: https://github.com/rupertrussell/Triodia-020
 // A work in progress used to add measurements and perimeters to arial photogrpahs
 // that include a scale measurement on the ground eg a 1 meter square
 
-// Display phot of a transect with scale 
+// Displays an arial (drone) photo of a transect with one meter square scale 
 // 1) Click on top corner of transect scale in photo
 // 2) click on oposite corner of transect scale eg 1 meter from first click on photo
-// 3) move the mouse to the first point you eant to measure press 1
+// 3) move the mouse to the first point you want to measure press 1
 // 4) move the mouse to the second point you want to measure press 2
 // 5) read the distance releative to the scape of the transct in meters
-// move mouse to a new point press 1 move to another point and press 2 
-// sread new distance between points
+
+// To outline the perimeter of a Triodia hummock
+// 1) Move the mouse to the edge of a hummock and press N for (New)
+// 2) Move the mouse around the edge of the hummoick and press P for each Point you want to mark
+// 3) Press O to clOse the polygon when you have marked the last point
+// The length of the Perimiter will be dislayed in Meters.
+
+// To Do add scanline filling to calcualte the area in square meters of each perimeter 
 
 int testColour = 255;
 
