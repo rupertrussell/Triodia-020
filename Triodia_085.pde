@@ -8,12 +8,12 @@
 // A work in progress used to add measurements and perimeters to arial photogrpahs
 // that include a scale measurement on the ground eg a 1 meter square
 
-// Displays an arial (drone) photo of a transect with one meter square scale 
+// Displays an aerial (drone) photo of a transect with one meter square scale 
 // 1) Click on top corner of transect scale in photo
 // 2) click on oposite corner of transect scale eg 1 meter from first click on photo
 // 3) move the mouse to the first point you want to measure press 1
 // 4) move the mouse to the second point you want to measure press 2
-// 5) read the distance releative to the scape of the transct in meters
+// 5) read the distance releative to the scale of the transct in meters
 
 // To outline the perimeter of a Triodia hummock
 // 1) Move the mouse to the edge of a hummock and press N for (New)
